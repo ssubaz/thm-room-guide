@@ -2,7 +2,7 @@
 
 | # | Room | Solution | Status |
 |---|------|----------|--------|
-| 1 | [Ohsint](https://tryhackme.com/room/ohsint/) | [Solution](#) | ✅ |
+| 1 | [Ohsint](https://tryhackme.com/room/ohsint/) | [Solution](https://github.com/ssubaz/thm-room-guide/tree/main/ohsint) | ✅ |
 | 2 | [Sakura](https://tryhackme.com/room/sakura/) | | ❌ |
 | 3 | [SearchLight](https://tryhackme.com/room/searchlightosint/) | | ❌ |
 | 4 | [Kenobi](https://tryhackme.com/room/kenobi/) | | ❌ |
