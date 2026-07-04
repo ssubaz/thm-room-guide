@@ -31,3 +31,27 @@ ps aux
 ```bash
 sudo -l
 ```
+
+* now try to access the password file
+```bash
+cat /etc/shadow
+```
+
+* we can see the password of the root user and the user we logged in or anyother users present in HASHED format
+* after that we have to check the connections made in the system
+
+```bash
+ip a && ifconfig
+```
+
+* to see anyother machines connected in the network we have to use `arp-scan`
+* check which are the ports are in use
+
+```bash
+netstat -ano
+```
+
+* check the history of the commands used in the terminal
+```bash 
+history
+```
