@@ -18,4 +18,4 @@
 | 14 | [Basic Pentesting](https://tryhackme.com/room/basicpentestingjt/) | | ❌ |
 | 15 | [Lian Yu](https://tryhackme.com/room/lianyu/) | | ❌ |
 | 16 | [Thompson](https://tryhackme.com/room/bsidesgtthompson/) | | ❌ |
-| 17 | [Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena/) | [Solution](https://github.com/ssubaz/thm-room-guide/tree/main/linux%20privesc%20arena/ | ❌ |
+| 17 | [Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena/) | [Solution](https://github.com/ssubaz/thm-room-guide/tree/main/linux%20privesc%20arena/) | ❌ |
