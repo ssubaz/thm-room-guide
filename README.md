@@ -9,7 +9,7 @@
 | 5 | [Vulnversity](https://tryhackme.com/room/vulnversity/) | | ❌ |
 | 6 | [Blue](https://tryhackme.com/room/blue/) | | ❌ |
 | 7 | [Ice](https://tryhackme.com/room/ice/) | | ❌ |
-| 8 | [PickleRick](https://tryhackme.com/room/picklerick/) | | ❌ |
+| 8 | [PickleRick](https://tryhackme.com/room/picklerick/) | [Solution](https://github.com/ssubaz/thm-room-guide/tree/main/Pickle%20Rick/) | ✅ |
 | 9 | [Wgel CTF](https://tryhackme.com/room/wgelctf/) | | ❌ |
 | 10 | [Crack The Hash](https://tryhackme.com/room/crackthehash/) | | ❌ |
 | 11 | [c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g/) | | ❌ |
