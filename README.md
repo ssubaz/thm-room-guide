@@ -20,3 +20,4 @@
 | 16 | [Thompson](https://tryhackme.com/room/bsidesgtthompson/) | | ❌ |
 | 17 | [Linux PrivEsc Arena](https://tryhackme.com/room/linuxprivescarena/) | [Solution](https://github.com/ssubaz/thm-room-guide/tree/main/linux%20privesc%20arena/) | INCOMPLETE |
 | 18 | [OWASP Juice Shop](https://tryhackme.com/room/owaspjuiceshop/) | [Solution](#) | NO NEED |
+| 19 | [Madness](https://tryhackme.com/room/madness/) | | ❌ |
